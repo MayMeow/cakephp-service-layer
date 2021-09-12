@@ -1,5 +1,5 @@
 {
-    "name": "burzum/cakephp-service-layer",
+    "name": "maymeow/cakephp-service-layer",
     "type": "cakephp-plugin",
     "license": "MIT",
     "description": "Service layer and domain / business model implementation for CakePHP",
